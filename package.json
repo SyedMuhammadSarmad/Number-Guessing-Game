@@ -1,6 +1,6 @@
 {
   "name": "number-guessing-game-by-sarmad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI number guessing game using typescript with inquirer",
   "main": "index.js",
   "type": "module",
