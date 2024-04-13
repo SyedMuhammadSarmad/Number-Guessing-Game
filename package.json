@@ -1,5 +1,5 @@
 {
-  "name": "number-guessing-game",
+  "name": "number-guessing-game-by-sarmad",
   "version": "1.0.0",
   "description": "CLI number guessing game using typescript with inquirer",
   "main": "index.js",
